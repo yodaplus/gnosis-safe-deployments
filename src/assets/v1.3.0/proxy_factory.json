@@ -4,7 +4,8 @@
   "contractName": "GnosisSafeProxyFactory",
   "version": "1.3.0",
   "networkAddresses": {
-    "51": "0xEa79c1354B319E867A024f399405148F772aeB3b"
+    "51": "0xEa79c1354B319E867A024f399405148F772aeB3b",
+    "50": "0xc9C473A60b757d7c2a28fb158D6Bf5C638bA078c"
   },
   "abi": [
     {

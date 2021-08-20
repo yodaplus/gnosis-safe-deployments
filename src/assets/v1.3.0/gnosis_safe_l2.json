@@ -4,7 +4,8 @@
   "contractName": "GnosisSafeL2",
   "version": "1.3.0",
   "networkAddresses": {
-    "1": "0xa73db6fc68A22da7774369FA0e43d507679C62BB"
+    "51": "0xa73db6fc68A22da7774369FA0e43d507679C62BB",
+    "50": "0xd9085820afEECf5C29F25527247Afe19765c4b2b"
   },
   "abi": [
     {
