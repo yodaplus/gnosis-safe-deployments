@@ -1,10 +1,10 @@
 {
-  "defaultAddress": "0xEa79c1354B319E867A024f399405148F772aeB3b",
+  "defaultAddress": "0xb6aBc8F02475088065F399Afb36FD601629E03a1",
   "released": true,
   "contractName": "GnosisSafeProxyFactory",
   "version": "1.3.0",
   "networkAddresses": {
-    "51": "0xEa79c1354B319E867A024f399405148F772aeB3b",
+    "51": "0xb6aBc8F02475088065F399Afb36FD601629E03a1",
     "50": "0xc9C473A60b757d7c2a28fb158D6Bf5C638bA078c"
   },
   "abi": [
