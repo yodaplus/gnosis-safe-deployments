@@ -1,20 +1,11 @@
 {
-  "defaultAddress": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
+  "defaultAddress": "0x4a0e0849D35ca19017b2cD811b1ab1Da79CD5922",
   "released": true,
   "contractName": "CompatibilityFallbackHandler",
   "version": "1.3.0",
   "networkAddresses": {
-    "1": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "4": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "42": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "5": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "56": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "100": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "137": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "246": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "4002": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "42161": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
-    "73799": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4"
+    "50": "0x4a0e0849D35ca19017b2cD811b1ab1Da79CD5922",
+    "51": "0xF5F2ae47097142643eA7Bde7bAD0b2644c6ff9a5"
   },
   "abi": [
     {
