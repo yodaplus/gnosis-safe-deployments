@@ -1,16 +1,16 @@
-# Gnosis Safe Deployments
+# YplusVault Contract Deployments
 
-[![npm version](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-deployments.svg)](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-deployments)
+[![npm version](https://badge.fury.io/js/%40yplusvault%2Fcontract-deployments.svg)](https://badge.fury.io/js/%40yplusvault%2Fcontract-deployments)
 
-This contract contains a collection of deployments of the contract of the [Safe contracts repository](https://github.com/gnosis/safe-contracts). 
+This repository contains a collection of deployments of the contract of the [YplusVaults contracts repository](https://github.com/yodaplus/gnosis-safe-deployments). Note that the YplusVault is a fork of Gnosis Safe.  
 
 For each deployment the address on the different networks and the abi files are available. To get an overview of the available versions check the available [json assets](./src/assets/).
 
-To add additional deployments please follow the [deployment steps in the Safe contract repository](https://github.com/gnosis/safe-contracts#deployments).
+To add additional deployments please follow the [deployment steps in the contract repository](https://github.com/yodaplus/gnosis-safe-contracts#deployments).
 
 ## Install
-- npm - `npm i @gnosis.pm/safe-deployments`
-- yarn - `yarn add @gnosis.pm/safe-deployments`
+- npm - `npm i @yplusvault/contract-deployments`
+- yarn - `yarn add @yplusvault/contract-deployments`
 
 ## Usage
 
